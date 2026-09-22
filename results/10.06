@@ -1,0 +1,8 @@
+m        = 2500;      % Vehicle mass (kg) — affects inertia and acceleration
+P_engine = 150000;    % Engine power (W) — defines available tractive force
+Cd       = 0.32;      % Drag coefficient — aerodynamic efficiency
+A        = 2.2;       % Frontal area (m^2) — surface exposed to airflow
+Crr      = 0.015;     % Rolling resistance coefficient — Tyre/road losses
+rho      = 1.225;     % Air density (kg/m^3) — affects drag
+g        = 9.81;      % Gravity (m/s^2) — used for rolling resistance
+0–100 km/h time: 10.06 seconds
